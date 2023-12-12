@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NetConf01.props" />
+</Project>
