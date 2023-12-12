@@ -1,2 +1,4 @@
-/.idea/
-/NetConf01/bin/
+*.idea
+*.bin
+*.obj
+/NetConf01/obj/
